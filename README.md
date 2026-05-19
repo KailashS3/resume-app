@@ -6,7 +6,7 @@ The app uses **xhtml2pdf** to convert your existing HTML template (`templates/in
 ---
 
 ## 📂 Project Structure
-
+```
 resume-app/
 ├─ app.py              # Flask application
 ├─ requirements.txt    # Python dependencies
@@ -16,7 +16,7 @@ resume-app/
 │    └─ style.css      # CSS styling for resume
 ├─ Dockerfile          # Container setup
 └─ README.md           # Project documentation
-
+```
 
 ---
 
