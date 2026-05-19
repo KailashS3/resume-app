@@ -50,7 +50,7 @@ resume-app/
 2. **Run the container:**
 
 ```
-    docker run -p 8080:8080 resume-app
+    docker run -d -p 8080:8080 resume-app
 ```
 3. **Access the app:**
 ```
