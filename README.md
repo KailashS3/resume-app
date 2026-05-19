@@ -59,8 +59,8 @@ resume-app/
 
 ## 📖 Features
 
-Resume displayed via templates/index.html \n
-Styled with static/style.css  \n
-Download Resume (PDF) button generates a PDF using xhtml2pdf \n
-Runs locally or inside Docker
+- Resume displayed via `templates/index.html`
+- Styled with `static/style.css`
+- Download Resume (PDF) button generates a PDF using `xhtml2pdf`
+- Runs locally or inside Docker
 
