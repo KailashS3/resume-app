@@ -3,8 +3,6 @@
 A simple **Flask web application** that displays your resume in the browser and allows visitors to **download it as a PDF**.  
 The app uses **xhtml2pdf** to convert your existing HTML template (`templates/index.html`) into a PDF dynamically.
 
----
-
 ## 📂 Project Structure
 ```
 resume-app/
@@ -18,14 +16,11 @@ resume-app/
 └─ README.md           # Project documentation
 ```
 
----
-
 ## ⚙️ Requirements
 - Python 3.11+
 - Flask
 - xhtml2pdf
 
----
 
 ## ▶️ Run Locally
 
@@ -54,11 +49,10 @@ resume-app/
 ```    
 2. **Run the container:**
 
-``bash
+```
     docker run -p 8080:8080 resume-app
 ```
 3. **Access the app:**
-
 ```
     http://localhost:8080/
 ```
