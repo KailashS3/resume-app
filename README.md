@@ -26,7 +26,7 @@ resume-app/
 
 1. **Clone the repo**:
    ```bash
-   git clone git@github.com:KailashS3/resume-app.git
+   git clone https://github.com/KailashS3/resume-app.git
    cd resume-app
    ```
 2. **Install dependencies:**
