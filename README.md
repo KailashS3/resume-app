@@ -64,3 +64,11 @@ resume-app/
 - Download Resume (PDF) button generates a PDF using `xhtml2pdf`
 - Runs locally or inside Docker
 
+
+## 📸 Screenshots
+
+### Resume Home Page
+<img width="480" height="240" alt="image" src="https://github.com/user-attachments/assets/c0ad00b4-5c3d-4721-8095-da780d9f8dcd" />
+
+### Download Resume (PDF)
+<img width="500" height="280" alt="image" src="https://github.com/user-attachments/assets/e2277717-1e78-4617-aae2-e23b98219664" />
